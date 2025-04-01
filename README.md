@@ -60,10 +60,3 @@ The dataset includes customer-level features such as:
 ## 💻 Tools Used
 - Language: **R**
 - Packages: `ggdendro`, `tidyverse`, `dplyr`
-
----
-
-## 🧠 Author
-**Rithu Rao Beedu**  
-MAX 522 - Predictive Analytics | Assignment 3  
-Spring 2025  
